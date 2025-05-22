@@ -40,6 +40,14 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+FULL ADDER:
+![image](https://github.com/user-attachments/assets/8844325c-5656-44b7-93bb-088b4d370cea)
+
+FULL SUBTRACTOR:
+![Uploading image.png…]()
+
+
+
 **Procedure**
 
 Write the detailed procedure here
